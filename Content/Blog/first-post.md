@@ -1,17 +1,32 @@
 ---
-title: First post
-lead: Sample post so you can see how it works
-published: 2023-11-04
-tags: [tag-001, another-sample-tag]
+title: Is BlazorStatic worth the time???
+lead: I'm strugging do get this thing going
+published: 2026-02-18
+tags: [first-impressions, deploy]
 authors:
-    - name: "Jan Tesař"
-      gitHubUserName: "tesar-tech"
-      xUserName: "tesar_tech"
+    - name: "John Marsing"
+      gitHubUserName: "JohnMarsing"
+      xUserName: "JohnMarsing"
 ---
 
-Hi, this is a sample post with front matter (YAML) metadata. You can use Markdown to write your content.
+This is a markdown file  with front matter (YAML) metadata. You can use Markdown to write your content.
 Also here is a sample image:
 
+### Why can't I see this purple but picture?
 ![programming bug](media/programming_bug.jpg)
+
+
+### Can I see this one of <i>Moshe</i>? 
+![](media/moses_keyboard_ai_prophet.jpg)
+
+
+### `HelloWorld.cs`
+- Here's some code...ok
+```csharp 
+public class HelloWorld
+{
+  public string SayHello() {  return "Hello, World!";  }
+} 
+```
 
 
